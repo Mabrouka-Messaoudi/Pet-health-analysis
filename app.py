@@ -806,7 +806,7 @@ elif page == "Visualisations interactives":
             - **Poids et Respiration** : Corrélation négative modérée (-0.42) - les animaux de poids plus élevé tendent à avoir une fréquence respiratoire plus basse.
             
             **Corrélations modérées**
-            - **Poids et Pulse** : Corrélation négative (-0.33) - le pulse tend à être plus bas chez les personnes de poids plus élevé.
+            - **Poids et Pulse** : Corrélation négative (-0.33) - le pulse tend à être plus bas chez les animaux de poids plus élevé.
             - **Température et Respiration** : Corrélation positive (0.34) - une température corporelle plus élevée s'accompagne d'une augmentation de la fréquence respiratoire.
             - **Température et Pulse** : Corrélation positive (0.27) - la fièvre tend à accélérer le rythme cardiaque.
             """)
